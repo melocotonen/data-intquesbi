@@ -1,6 +1,6 @@
 ## SQL
 
-Supongamos que tennemos el siguiente esqueda de Base de Datos
+Supongamos que tenemos el siguiente esquema de Base de Datos
 
 * Pólizas
 * status podrá ser activo o inactivo
@@ -39,4 +39,4 @@ Write SQL queries to extract the following information:
 
 **6)** ¿Cómo crearias la tabla para relacionar usuarios y polizas?
 
-**7)** Número de polizas por usuario y por estado de la poliza
+**7)** Número de polizas por usuario y por estado de la poliza teniendo en cuanta que puedes usar la tabla de la relación anterior
