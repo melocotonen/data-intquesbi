@@ -1,7 +1,5 @@
 ## Codificación
 
-## Coding (Python)
-
 **1) AAABBB.** Imprime números del 1 al 100
 
 * Si es múltiplo de 3, imprime "AAA"

@@ -2,7 +2,7 @@
 
 # Instrucciones
 
-Para hacer esta prueba tienes que crear una rama con el nombre de tus iniciales y crear los siguientes ficherso dentro de la carpeta result
+Para hacer esta prueba tienes que crear una rama con el nombre de tus iniciales y crear los siguientes fichero dentro de la carpeta result
 
 ## Preguntas sobre SQL
 
