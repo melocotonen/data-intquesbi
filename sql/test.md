@@ -39,4 +39,4 @@ Write SQL queries to extract the following information:
 
 **6)** ¿Cómo crearias la tabla para relacionar usuarios y polizas?
 
-**7)** Número de polizas por usuario y por estado de la poliza teniendo en cuanta que puedes usar la tabla de la relación anterior
+**7)** Número de polizas por usuario y por estado de la poliza teniendo en cuenta que puedes usar la tabla de la relación anterior

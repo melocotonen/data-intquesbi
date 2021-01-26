@@ -2,13 +2,13 @@
 
 Escribe en el código que consideres soluciones a los siguientes problemas
 
-**1) Clases**. Crea una clase que tenga 
-
-Escribe las clases que mejor solucionan lo siguiente:
+**1) Clases**. Escribe las clases que mejor solucionan lo siguiente:
 * Dentro de un instituto hay alumnos y profesores 
 * Queremos tener el nombre de los alumnos
 * Queremos teener el nombre de los profesores
 * Queremos tener el curso de los alumnas donde están matriculados
+
+A continuación se muestra una posible solución
 
 ```Java
 public class Alumno {
@@ -53,6 +53,6 @@ public class Jugador {
 }
 ```
 
-Crea un nuevo diseño de clases si es preciso para resolver unos de los principios SOLID que está ocurriendo
+Crea un nuevo diseño de clases si es preciso para resolver unos de los principios SOLID que se está violando
 
 <br/>
