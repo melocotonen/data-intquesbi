@@ -14,7 +14,7 @@ Ejemplo de salida: 1, 2, AAA, 4, BBB, AAA, 7, 8, AAA, BBB, 11, AAA, 13, 14, AAA 
 
 **2) Factorial**. Escribe el factorial de un número
 
-* `factorial(4)` = 5! = 1 * 2 * 3 * 4 * 5 = 120
+* `factorial(4)` = 4! = 1 * 2 * 3 * 4 = 24
 
 <br/>
 
@@ -41,4 +41,17 @@ Ejemplo de salida: 1, 2, AAA, 4, BBB, AAA, 7, 8, AAA, BBB, 11, AAA, 13, 14, AAA 
 * 5: 2 veces
 
 <br/>
+
+**8) Suma dos**. Dado un array y un número N retorna true si hay números A y B tal que A + B = N. Sino retorna falto
+
+* `[1, 2, 3, 4], 5` ⇒ `True`
+* `[3, 4, 6], 6` ⇒ `False`
+
+<br/>
+
+
+**9) Intersection**. Devuelve la intersección de dos listas
+
+* `[1, 2, 4, 6, 10], [2, 4, 5, 7, 10]` ⇒ `[2, 4, 10]`
+
 
