@@ -1,4 +1,4 @@
-<img src="img/logo.png" />
+<img src="img/logo_e.png" />
 
 # Instrucciones
 
