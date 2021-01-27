@@ -5,10 +5,10 @@ Escribe en el código que consideres soluciones a los siguientes problemas
 **1) Clases**. Escribe las clases que mejor solucionan lo siguiente:
 * Dentro de un instituto hay alumnos y profesores 
 * Queremos tener el nombre de los alumnos
-* Queremos teener el nombre de los profesores
-* Queremos tener el curso de los alumnas donde están matriculados
+* Queremos tener el nombre de los profesores
+* Queremos tener el curso de los alumnos donde están matriculados
 
-A continuación se muestra una posible solución
+A continuación, se muestra una posible solución
 
 ```Java
 public class Alumno {
