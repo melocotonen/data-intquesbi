@@ -11,13 +11,13 @@ Para hacer esta prueba tienes un tiempo aproximado de una hora ( como máximo un
 
 * Las preguntas están aquí: [codificacion/test.md](codificacion/test.md)
 * Tienes que generar un fichero en la carpeta resultado denominado coding-test.txt con el resultado de la codificación
-* Puedes utilizar el lenguaje de programación que te sientas más cómodo
+* Puedes utilizar el lenguaje de programación con el que te sientas más cómodo
 
 ## Preguntas sobre programación
 
 * Las preguntas están aquí: [programacion/test.md](programacion/test.md)
 * Tienes que generar un fichero en la carpeta resultado denominado programacion-test.txt con el resultado de la codificación
-* Puedes utilizar el lenguaje de programación que te sientas más cómodo
+* Puedes utilizar el lenguaje de programación con el que te sientas más cómodo
 
 ## ¿Cómo trabajar con el repositorio?
 
