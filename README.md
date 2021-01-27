@@ -1,6 +1,6 @@
 # Instrucciones
 
-Para hacer esta tienes un tiempo aproximado de una hora ( como máximo una hora y media )
+Para hacer esta prueba tienes un tiempo aproximado de una hora ( como máximo una hora y media )
 
 ## Preguntas sobre SQL
 
