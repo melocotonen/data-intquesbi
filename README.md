@@ -1,9 +1,6 @@
 # Instrucciones
 
-Para hacer esta tienes un tiempo de 1 hora.
-
-* Tener Git instalado en tu máquina
-* Intenta tener nombre de los commits con sentido
+Para hacer esta tienes un tiempo aproximado de una hora ( como máximo una hora y media )
 
 ## Preguntas sobre SQL
 
@@ -29,6 +26,7 @@ Para hacer esta tienes un tiempo de 1 hora.
 * Haz un fork del repositorio
 * Haz los commits que necesites
 * Genera un pull request 
+* Envia un email con el link del PR generado
 
 ### Si no tienes cuenta de GitHub
 
@@ -36,8 +34,8 @@ Para hacer esta tienes un tiempo de 1 hora.
 * Descomprímelo en una carpeta
 * Ejecuta git init en dicha carpeta para activar el historial de git
 * Haz los commits que necesites
-* Comprime toda la carpeta
+* Comprime toda la carpeta en un zip (no olvides incluir la carpeta .git)
 * Envíalo al email que se te indica previamente en el correo
 
 ### Si no sabes manejar git ni github
-* Genera los tres ficheros solución en un fichero y envíalo por email
+* Genera los tres ficheros solución en un fichero zip y envíalo por el email indicado
