@@ -1,3 +1,5 @@
+<img src="img/logo.png" />
+
 # Instrucciones
 
 Para hacer esta prueba tienes un tiempo aproximado de una hora ( como máximo una hora y media )
@@ -20,15 +22,7 @@ Para hacer esta prueba tienes un tiempo aproximado de una hora ( como máximo un
 * Puedes utilizar el lenguaje de programación con el que te sientas más cómodo
 
 ## ¿Cómo trabajar con el repositorio?
-
-### Si tienes cuenta de GitHub
-
-* Haz un fork del repositorio
-* Haz los commits que necesites
-* Genera un pull request 
-* Envia un email con el link del PR generado
-
-### Si no tienes cuenta de GitHub
+### Si tienes Git
 
 * Descárgate el repositorio como un zip
 * Descomprímelo en una carpeta
@@ -36,6 +30,5 @@ Para hacer esta prueba tienes un tiempo aproximado de una hora ( como máximo un
 * Haz los commits que necesites
 * Comprime toda la carpeta en un zip (no olvides incluir la carpeta .git)
 * Envíalo al email que se te indica previamente en el correo
-
-### Si no sabes manejar git ni github
-* Genera los tres ficheros solución en un fichero zip y envíalo por el email indicado
+### Si no tienes Git
+* Genera los tres ficheros solución en un fichero zip y envíalo al email indicado
