@@ -1,6 +1,6 @@
 # Instrucciones
 
-Para hacer esta prueba tienes que crear una rama con el nombre de tus iniciales y crear los siguientes ficheros dentro de la carpeta resultado
+Para hacer esta tienes un tiempo de 1 hora.
 
 * Tener Git instalado en tu máquina
 * Intenta tener nombre de los commits con sentido
