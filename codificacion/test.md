@@ -42,7 +42,7 @@ Ejemplo de salida: 1, 2, AAA, 4, BBB, AAA, 7, 8, AAA, BBB, 11, AAA, 13, 14, AAA 
 
 <br/>
 
-**8) Suma dos**. Dado un array y un número N retorna true si hay números A y B tal que A + B = N. Sino retorna falto
+**8) Suma dos**. Dado un array y un número N retorna true si hay números A y B tal que A + B = N. Sino retorna fallo
 
 * `[1, 2, 3, 4], 5` ⇒ `True`
 * `[3, 4, 6], 6` ⇒ `False`
