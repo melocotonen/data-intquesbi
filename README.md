@@ -7,7 +7,7 @@ Para hacer esta prueba tienes un tiempo aproximado de una hora ( como máximo un
 ## Preguntas sobre SQL
 
 * Las preguntas están aquí: [sql/test.md](sql/test.md)
-* Tienes que generar un fichero en la carpeta resultado denominado sql-test.sql con las consultas para resolver 
+* Tienes que generar un fichero en la carpeta resultado denominado sql-test.sql con la resolución de los ejercicios
 
 ## Preguntas sobre codificación
 
