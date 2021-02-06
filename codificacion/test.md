@@ -18,20 +18,20 @@ Ejemplo de salida: 1, 2, AAA, 4, BBB, AAA, 7, 8, AAA, BBB, 11, AAA, 13, 14, AAA 
 
 <br/>
 
-**2) Media**. Calcula la media de una lista
+**3) Media**. Calcula la media de una lista
 
 * `avg([4, 36, 45, 50, 75]) = 42`
 
 <br/>
 
-**6) Borras duplicados**. Elimina duplicados de una lista La lista no está ordenada y el orden de la lista final debe de ser la misma
+**4) Borras duplicados**. Elimina duplicados de una lista La lista no está ordenada y el orden de la lista final debe de ser la misma
 
 * `[1, 2, 3, 2]` ⇒ `[1, 2, 3]`
 * `[1, 2, 2, 1, 5, 3, 2, 1, 4]` ⇒ `[1, 3, 2, 5, 4]`
 
 <br/>
 
-**7) Contar**. Cuantas veces se repite el elemento de una lista
+**5) Contar**. Cuantas veces se repite el elemento de una lista
 
 `[1, 3, 2, 1, 5, 3, 5, 1, 4]` ⇒  
 * 1: 3 veces
@@ -42,7 +42,7 @@ Ejemplo de salida: 1, 2, AAA, 4, BBB, AAA, 7, 8, AAA, BBB, 11, AAA, 13, 14, AAA 
 
 <br/>
 
-**8) Suma dos**. Dado un array y un número N retorna true si hay números A y B tal que A + B = N. Sino retorna fallo
+**6) Suma dos**. Dado un array y un número N retorna true si hay números A y B tal que A + B = N. Sino retorna fallo
 
 * `[1, 2, 3, 4], 5` ⇒ `True`
 * `[3, 4, 6], 6` ⇒ `False`
@@ -50,7 +50,7 @@ Ejemplo de salida: 1, 2, AAA, 4, BBB, AAA, 7, 8, AAA, BBB, 11, AAA, 13, 14, AAA 
 <br/>
 
 
-**9) Intersection**. Devuelve la intersección de dos listas
+**7) Intersection**. Devuelve la intersección de dos listas
 
 * `[1, 2, 4, 6, 10], [2, 4, 5, 7, 10]` ⇒ `[2, 4, 10]`
 
