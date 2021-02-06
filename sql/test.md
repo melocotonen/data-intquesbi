@@ -2,11 +2,11 @@
 
 Supongamos que tenemos el siguiente esquema de Base de Datos
 
-* Pólizas
-* status podrá ser activo o inactivo
-* Siniestros
+* Policies
+* status podrá ser activa o inactiva
+* Claims
 * claim_type podrá ser telemático, presencial o mixto
-* Usuarios
+* Users
 
 <img src="E-R test.png" />
 
