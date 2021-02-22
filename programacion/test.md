@@ -19,7 +19,7 @@ public class Profesor {
     private String nombre:    
 }
 ```
-Mejora esta solución adoptada
+Mejora esta solución adoptada usando herencia
 
 **2) POO**. Ten en cuenta el siguiente código escrito en Java
 
