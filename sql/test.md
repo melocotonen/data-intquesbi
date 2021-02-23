@@ -10,7 +10,7 @@ Supongamos que tenemos el siguiente esquema de Base de Datos
 
 <img src="E-R test.png" />
 
-Write SQL queries to extract the following information:
+Escribe en SQL para extraer la siguente información
 
 **1)** Número de pólizas activas
 
