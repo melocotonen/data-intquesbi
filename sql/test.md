@@ -17,7 +17,7 @@ Escribe en SQL para extraer la siguente información
 <br/>
 
 
-**2)** Todas las campañías activas. Una compañia está activa si al menos hay una poliza activa (company_id)
+**2)** Listado de todas las campañías activas. Una compañia está activa si al menos hay una poliza activa (company_id)
 
 <br/>
 
