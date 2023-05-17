@@ -1,4 +1,4 @@
-<img src="img/logo_e.png" />
+<img src="img/EugenePnk.png" />
 
 # Instrucciones
 
@@ -31,4 +31,5 @@ Para hacer esta prueba tienes un tiempo aproximado de una hora ( como máximo un
 * Comprime toda la carpeta en un zip (no olvides incluir la carpeta .git)
 * Envíalo al email que se te indica previamente en el correo
 ### Si no tienes Git
-* Genera los tres ficheros solución en un fichero zip y envíalo al email indicado
+* Genera los tres ficheros solución en un fichero zip y envíalo al siguiente mail:
+* interviews@e-valua.es
